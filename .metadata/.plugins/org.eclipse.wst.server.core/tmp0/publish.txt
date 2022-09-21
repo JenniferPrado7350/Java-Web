@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri May 06 01:57:18 BRT 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\jenni\\.m2\\repository\\org\\primefaces\\primefaces\\11.0.0\\primefaces-11.0.0.jar=C\:\\Users\\jenni\\apache-tomee-webprofile-8.0.10\\wtpwebapps\\Prova1JenniferSilva\\WEB-INF\\lib\\primefaces-11.0.0.jar
+org.eclipse.jst.jee.server\:Prova1JenniferSilva=C\:\\Users\\jenni\\apache-tomee-webprofile-8.0.10\\wtpwebapps\\Prova1JenniferSilva

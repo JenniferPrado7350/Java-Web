@@ -1,0 +1,9 @@
+1645713237370	Rename compilation unit 'ContatoDAO.java'
+1645713299372	Rename type 'Contato'
+1645714111098	Rename type 'AdicionarContatoServlet'
+1645744460667	Delete element
+1645748781547	Rename type 'BuscarContatoServlet'
+1645750087556	Rename resource 'buscar-contato.jsp'
+1645752422152	Rename type 'AlterarContatoServlet'
+1645761450203	Rename type 'ExcluirContatoServlet'
+1645761791808	Rename resource 'excluir-resposta.jsp'
